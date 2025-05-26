@@ -1,0 +1,17 @@
+{
+ "name": "fetchninjax",
+  "version": "1.0.0",
+  "description": "A smart React hook for handling fetches with retry, caching, and more",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["react", "hook", "fetch", "smart-fetch", "axios", "cache", "retry"],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0"
+  }
+}
